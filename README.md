@@ -1,4 +1,15 @@
 # Repository-test---Open-Source-Software-
-This is my first repository in GitHub for Open Source Software course
+# Open Source Software - Test Repository
 
-Test
+
+This repository is created as part of the **Open Source Software** course.
+Its purpose is to demonstrate basic GitHub workflows, collaboration practices, and open-source contribution guidelines.
+
+ Usage
+
+Provide instructions on how to run or use the project:
+
+```bash
+# Example command
+python main.py
+```
